@@ -1,0 +1,50 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {"" = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = SFTPPrefTableView; LANGUAGE = ObjC; SUPERCLASS = NSTableView; }, 
+        {
+            ACTIONS = {
+                addFavorite = id; 
+                chooseDefaultLocalDirectory = id; 
+                deleteFavorite = id; 
+                deleteKnownHost = id; 
+                saveKnownHosts = id; 
+                searchKnownHosts = id; 
+                setODBTextEditor = id; 
+                showGeneralPreferences = id; 
+            }; 
+            CLASS = SFTPPrefs; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                prefDefaultLDir = NSTextField; 
+                prefFavTable = SFTPPrefTableView; 
+                prefFavoritesPaneBox = NSBox; 
+                prefFilesPaneBox = NSBox; 
+                prefGeneralPaneBox = NSBox; 
+                prefKnownHostsArrayController = NSArrayController; 
+                prefKnownHostsListTable = SFTPPrefTableView; 
+                prefKnownHostsPaneBox = NSBox; 
+                prefKnownHostsSearchField = NSSearchField; 
+                prefPanel = NSPanel; 
+                prefPostEditMatrix = NSMatrix; 
+                prefSSHPath = NSComboBox; 
+                prefSortingMatrix = NSMatrix; 
+                prefTabView = NSTabView; 
+                prefTextEditorPopUp = NSPopUpButton; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {search = id; }; 
+            CLASS = UMArrayController; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSArrayController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

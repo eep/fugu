@@ -1,0 +1,3615 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 39;
+	objects = {
+		080E96DDFE201D6D7F000001 = {
+			children = (
+				F589A63901B43A7301D5E771,
+				F589A63801B43A7301D5E771,
+				F5939901021C375F01D5E771,
+				F5939902021C375F01D5E771,
+				F58418F301B4201501D5E771,
+				F58418F201B4201501D5E771,
+				F589A63A01B43A7301D5E771,
+				F589A63B01B43A7301D5E771,
+				F589A63C01B43A7301D5E771,
+				F589A63D01B43A7301D5E771,
+				F54056F801E6402401D5E771,
+				F54056F701E6402401D5E771,
+				F57214230307199D01A8002B,
+				F57214240307199D01A8002B,
+			);
+			isa = PBXGroup;
+			name = SFTP;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//080
+//081
+//082
+//083
+//084
+//090
+//091
+//092
+//093
+//094
+		0911C537050D04630022D49F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Dutch;
+			path = Dutch.lproj/SFTPPrefToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0916ACC104F728EA00000102 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = download.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0916ACC204F728EA00000102 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = upload.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0916ACC504F72A0600000102 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = goto.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0916ACC904F7323100000102 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = preview.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09173BB3050E461700D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = French;
+			path = French.lproj/SFTPPrefToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0923B08803E846EE00A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = UMFileLauncher.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0923B08903E846EE00A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = UMFileLauncher.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09274DEC04B36372003075E6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = generalprefs.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09274DEE04B36AFF003075E6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = favoritesprefs.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09274DF004B36B27003075E6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = knownhosts.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09274DF204B3826E003075E6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = zeroconf.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4C905F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Chinese;
+			path = Chinese.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4CB05F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.rtf;
+			name = Chinese;
+			path = Chinese.lproj/keys.rtf;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4CC05F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Chinese;
+			path = Chinese.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4CD05F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Chinese;
+			path = Chinese.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4CE05F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Chinese;
+			path = Chinese.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4CF05F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Chinese;
+			path = Chinese.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4D005F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Chinese;
+			path = Chinese.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4D105F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Chinese;
+			path = Chinese.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4D205F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Chinese;
+			path = Chinese.lproj/SFTPPrefToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4D305F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Chinese;
+			path = Chinese.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4D405F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Chinese;
+			path = Chinese.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092DD4D505F3D40700EA362F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Chinese;
+			path = Chinese.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092E4A3D04B89F4E00341390 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = downtriangle.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		092E4A3E04B89F4F00341390 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = righttriangle.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338C9703FD986F00D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = German;
+			path = German.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338C9903FD98AE00D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = German;
+			path = German.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338C9A03FD98C300D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = German;
+			path = German.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338C9B03FD98D800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = German;
+			path = German.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338C9C03FD98ED00D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = German;
+			path = German.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338C9D03FD990300D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = German;
+			path = German.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338C9E03FD991500D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = German;
+			path = German.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338C9F03FD997F00D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = German;
+			path = German.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338CA003FD999600D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = German;
+			path = German.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09338CA103FD99AC00D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = German;
+			path = German.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0934447B0524C5E500D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = newfolder.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0934447C0524C5E500D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = symlink.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0934447E0524C5E500D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = uparrow.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		093444890524CA3800D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = trash.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0934448B0524CAB600D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = remotetrash.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0936A56005220F8600D5E7DF = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSMutableArray(Extensions).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0936A56105220F8600D5E7DF = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSMutableArray(Extensions).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09448C5E03F052C200A8002B = {
+			children = (
+				09448C5F03F052C200A8002B,
+				09338C9E03FD991500D5EA79,
+				096C4A870413F74C003D9332,
+				09E1EBF60452494200D5EA79,
+				095D40E0048E86BC009C52F5,
+				09F12F560494F76C00A8022B,
+				09830E5704B4AABA00F63E62,
+				09855B2F04CDD14800D5EA79,
+				09CB2F0805350D2000B1DF0F,
+				092DD4CC05F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = Localizable.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09448C5F03F052C200A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		094AF260054772B6006D53C9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = info.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		094AF26405481FDF006D53C9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.rtfd;
+			name = French;
+			path = "French.lproj/Fugu README.rtfd";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09554B1D03CE87CA00D5E7D1 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPScrollView.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09554B1E03CE87CA00D5E7D1 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPScrollView.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095C52200442121400A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPItemCell.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095C52210442121400A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPItemCell.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D2AE2051946B500E73D04 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSWorkspace(SystemVersionNumber).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D2AE3051946B500E73D04 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSWorkspace(SystemVersionNumber).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40DB048E8651009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Spanish;
+			path = Spanish.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40DC048E8664009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Spanish;
+			path = Spanish.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40DD048E869C009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Spanish;
+			path = Spanish.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40DE048E86BC009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Spanish;
+			path = Spanish.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40E0048E86BC009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Spanish;
+			path = Spanish.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40E1048E86BC009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Spanish;
+			path = Spanish.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40E2048E86BC009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Spanish;
+			path = Spanish.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40E3048E86BC009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Spanish;
+			path = Spanish.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40E4048E86BC009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Spanish;
+			path = Spanish.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		095D40E5048E86BC009C52F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Spanish;
+			path = Spanish.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0960E33403F05A2800A8002B = {
+			children = (
+				0960E33503F05A2800A8002B,
+				09338CA003FD999600D5EA79,
+				096C4A8D0413F74C003D9332,
+				09E1EBFC0452494200D5EA79,
+				095D40E3048E86BC009C52F5,
+				09F12F5E0494F76D00A8022B,
+				09830E5D04B4AABA00F63E62,
+				09855B3504CDD14800D5EA79,
+				09CB2F0F05350D2000B1DF0F,
+				092DD4D305F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = SFTPToolbar.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0960E33503F05A2800A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0960E33703F063A700A8002B = {
+			children = (
+				0960E33803F063A700A8002B,
+				09338C9D03FD990300D5EA79,
+				096C4A850413F74C003D9332,
+				09E1EBF40452494200D5EA79,
+				095D40DE048E86BC009C52F5,
+				09F12F540494F76C00A8022B,
+				09830E5504B4AABA00F63E62,
+				09855B2D04CDD14800D5EA79,
+				09CB2F0705350D2000B1DF0F,
+				092DD4C905F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = HelpMenu.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0960E33803F063A700A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09682E8207C4F07300210847 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = UMTextField.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09682E8307C4F07300210847 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = UMTextField.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09682EE507C5005400210847 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = UMDragDropImageView.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09682EE607C5005400210847 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = UMDragDropImageView.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09682FA507C5528A00210847 = {
+			buildPhases = (
+				09682FA607C5528A00210847,
+				09682FD007C5528A00210847,
+				09682FFE07C5528A00210847,
+				0968302807C5528A00210847,
+			);
+			buildRules = (
+				0968302F07C5528A00210847,
+			);
+			buildSettings = {
+				CC = /usr/bin/gcc;
+				CPLUSPLUS = "/usr/bin/g++";
+				CURRENT_PROJECT_VERSION = 116;
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_OPTIMIZATION_LEVEL = 0;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = "";
+				MACOSX_DEPLOYMENT_TARGET = 10.2;
+				OTHER_LDFLAGS = "";
+				PREBINDING = NO;
+				PRODUCT_NAME = Fugu;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas";
+				WRAPPER_EXTENSION = app;
+			};
+			dependencies = (
+				0968303307C552F200210847,
+			);
+			isa = PBXNativeTarget;
+			name = Fugu;
+			productInstallPath = "$(HOME)/Applications";
+			productName = ScruFTP;
+			productReference = 0968303007C5528A00210847;
+			productType = "com.apple.product-type.application";
+		};
+		09682FA607C5528A00210847 = {
+			buildActionMask = 2147483647;
+			files = (
+				09682FA707C5528A00210847,
+				09682FA807C5528A00210847,
+				09682FA907C5528A00210847,
+				09682FAA07C5528A00210847,
+				09682FAB07C5528A00210847,
+				09682FAC07C5528A00210847,
+				09682FAD07C5528A00210847,
+				09682FAE07C5528A00210847,
+				09682FAF07C5528A00210847,
+				09682FB007C5528A00210847,
+				09682FB107C5528A00210847,
+				09682FB207C5528A00210847,
+				09682FB307C5528A00210847,
+				09682FB407C5528A00210847,
+				09682FB507C5528A00210847,
+				09682FB607C5528A00210847,
+				09682FB707C5528A00210847,
+				09682FB807C5528A00210847,
+				09682FB907C5528A00210847,
+				09682FBA07C5528A00210847,
+				09682FBB07C5528A00210847,
+				09682FBC07C5528A00210847,
+				09682FBD07C5528A00210847,
+				09682FBE07C5528A00210847,
+				09682FBF07C5528A00210847,
+				09682FC007C5528A00210847,
+				09682FC107C5528A00210847,
+				09682FC207C5528A00210847,
+				09682FC307C5528A00210847,
+				09682FC407C5528A00210847,
+				09682FC507C5528A00210847,
+				09682FC607C5528A00210847,
+				09682FC707C5528A00210847,
+				09682FC807C5528A00210847,
+				09682FC907C5528A00210847,
+				09682FCA07C5528A00210847,
+				09682FCB07C5528A00210847,
+				09682FCC07C5528A00210847,
+				09682FCD07C5528A00210847,
+				09682FCE07C5528A00210847,
+				09682FCF07C5528A00210847,
+			);
+			isa = PBXHeadersBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09682FA707C5528A00210847 = {
+			fileRef = F58418F201B4201501D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FA807C5528A00210847 = {
+			fileRef = F589A63901B43A7301D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FA907C5528A00210847 = {
+			fileRef = F589A63B01B43A7301D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FAA07C5528A00210847 = {
+			fileRef = F589A63D01B43A7301D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FAB07C5528A00210847 = {
+			fileRef = F54056F701E6402401D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FAC07C5528A00210847 = {
+			fileRef = F5939902021C375F01D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FAD07C5528A00210847 = {
+			fileRef = F57EF22B023D053C01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FAE07C5528A00210847 = {
+			fileRef = F585905002D2393A01D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FAF07C5528A00210847 = {
+			fileRef = F57214230307199D01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB007C5528A00210847 = {
+			fileRef = F538D79D030CADCC01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB107C5528A00210847 = {
+			fileRef = F538D7A4030CB33A01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB207C5528A00210847 = {
+			fileRef = F517DFB10312A0A901A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB307C5528A00210847 = {
+			fileRef = F5D6EBA4031686A101A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB407C5528A00210847 = {
+			fileRef = F5D6EBAD0316911201A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB507C5528A00210847 = {
+			fileRef = F5D6EBBD03199D2901A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB607C5528A00210847 = {
+			fileRef = F5FC36BC036A339A01E16655;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB707C5528A00210847 = {
+			fileRef = 23EAEE0C0385949DFE27C9B8;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB807C5528A00210847 = {
+			fileRef = 23A1B7410389BD23FED5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FB907C5528A00210847 = {
+			fileRef = 09C448BB03D0D37E00D5EA68;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FBA07C5528A00210847 = {
+			fileRef = 0923B08803E846EE00A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FBB07C5528A00210847 = {
+			fileRef = 0991811803F0262300A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FBC07C5528A00210847 = {
+			fileRef = 0977864F0430BF2000BEE8BF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FBD07C5528A00210847 = {
+			fileRef = 09554B1D03CE87CA00D5E7D1;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FBE07C5528A00210847 = {
+			fileRef = 095C52200442121400A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FBF07C5528A00210847 = {
+			fileRef = 09AE0F7204812A6300A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC007C5528A00210847 = {
+			fileRef = 09E0A0F804C091C000D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC107C5528A00210847 = {
+			fileRef = 09E0A0EE04C06A3100D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC207C5528A00210847 = {
+			fileRef = 0994319704C5AEDE0066CB97;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC307C5528A00210847 = {
+			fileRef = 09D21DC604EC1C7C00D5EACC;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC407C5528A00210847 = {
+			fileRef = 09D21DCA04EDA06700D5EACC;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC507C5528A00210847 = {
+			fileRef = 09BCC14004EECC1500D5EACC;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC607C5528A00210847 = {
+			fileRef = 09D38E8F04F5A20000000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC707C5528A00210847 = {
+			fileRef = 09D38E9304F5AE1400000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC807C5528A00210847 = {
+			fileRef = 095D2AE2051946B500E73D04;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FC907C5528A00210847 = {
+			fileRef = 09DA7588051B891000D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FCA07C5528A00210847 = {
+			fileRef = 0936A56005220F8600D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FCB07C5528A00210847 = {
+			fileRef = 099BE67705222CDA0038D787;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FCC07C5528A00210847 = {
+			fileRef = 0984FFE005D9D8F900EEA2D5;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FCD07C5528A00210847 = {
+			fileRef = 09D2776A061A835D00EE17C7;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FCE07C5528A00210847 = {
+			fileRef = 09682E8207C4F07300210847;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FCF07C5528A00210847 = {
+			fileRef = 09682EE507C5005400210847;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FD007C5528A00210847 = {
+			buildActionMask = 2147483647;
+			files = (
+				09682FD107C5528A00210847,
+				09682FD307C5528A00210847,
+				09682FD407C5528A00210847,
+				09682FD507C5528A00210847,
+				09682FD607C5528A00210847,
+				09682FD707C5528A00210847,
+				09682FD807C5528A00210847,
+				09682FD907C5528A00210847,
+				09682FDA07C5528A00210847,
+				09682FDB07C5528A00210847,
+				09682FDC07C5528A00210847,
+				09682FDD07C5528A00210847,
+				09682FDE07C5528A00210847,
+				09682FDF07C5528A00210847,
+				09682FE007C5528A00210847,
+				09682FE107C5528A00210847,
+				09682FE207C5528A00210847,
+				09682FE307C5528A00210847,
+				09682FE407C5528A00210847,
+				09682FE507C5528A00210847,
+				09682FE607C5528A00210847,
+				09682FE707C5528A00210847,
+				09682FE807C5528A00210847,
+				09682FE907C5528A00210847,
+				09682FEA07C5528A00210847,
+				09682FEB07C5528A00210847,
+				09682FEC07C5528A00210847,
+				09682FED07C5528A00210847,
+				09682FEE07C5528A00210847,
+				09682FEF07C5528A00210847,
+				09682FF007C5528A00210847,
+				09682FF107C5528A00210847,
+				09682FF207C5528A00210847,
+				09682FF307C5528A00210847,
+				09682FF407C5528A00210847,
+				09682FF507C5528A00210847,
+				09682FF607C5528A00210847,
+				09682FF707C5528A00210847,
+				09682FF807C5528A00210847,
+				09682FF907C5528A00210847,
+				09682FFA07C5528A00210847,
+				09682FFB07C5528A00210847,
+				09682FFC07C5528A00210847,
+				09682FFD07C5528A00210847,
+			);
+			isa = PBXResourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09682FD107C5528A00210847 = {
+			fileRef = 29B97318FDCFA39411CA2CEA;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FD307C5528A00210847 = {
+			fileRef = F5B12CC002DF4E6001D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FD407C5528A00210847 = {
+			fileRef = F517810B03083F4A01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FD507C5528A00210847 = {
+			fileRef = F517DFAD0312049F01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FD607C5528A00210847 = {
+			fileRef = F5EA815603785CDD01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FD707C5528A00210847 = {
+			fileRef = 239A5C18038C2294FED5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FD807C5528A00210847 = {
+			fileRef = 238577620392BB76FED5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FD907C5528A00210847 = {
+			fileRef = 238577660392BFBCFED5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FDA07C5528A00210847 = {
+			fileRef = 09F5CD7203F04CF600A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FDB07C5528A00210847 = {
+			fileRef = 09448C5E03F052C200A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FDC07C5528A00210847 = {
+			fileRef = 0960E33403F05A2800A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FDD07C5528A00210847 = {
+			fileRef = 0960E33703F063A700A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FDE07C5528A00210847 = {
+			fileRef = 096A883B03F1B71700A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FDF07C5528A00210847 = {
+			fileRef = 0971F3FA03F2DFC700A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE007C5528A00210847 = {
+			fileRef = 09FFFC6303F992BE00A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE107C5528A00210847 = {
+			fileRef = 09FFFC7903FC38BF00A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE207C5528A00210847 = {
+			fileRef = 09FFFC7B03FC3CA600A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE307C5528A00210847 = {
+			fileRef = 09FFFC7C03FC3CA600A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE407C5528A00210847 = {
+			fileRef = 09E1EBF20452494200D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE507C5528A00210847 = {
+			fileRef = 09274DEC04B36372003075E6;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE607C5528A00210847 = {
+			fileRef = 09274DEE04B36AFF003075E6;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE707C5528A00210847 = {
+			fileRef = 09274DF004B36B27003075E6;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE807C5528A00210847 = {
+			fileRef = 09274DF204B3826E003075E6;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FE907C5528A00210847 = {
+			fileRef = 092E4A3D04B89F4E00341390;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FEA07C5528A00210847 = {
+			fileRef = 092E4A3E04B89F4F00341390;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FEB07C5528A00210847 = {
+			fileRef = 09F9EDCE04CC74CB00D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FEC07C5528A00210847 = {
+			fileRef = 09F9EDD004CC841F00D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FED07C5528A00210847 = {
+			fileRef = 09D38E9D04F6A0A800000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FEE07C5528A00210847 = {
+			fileRef = 0916ACC104F728EA00000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FEF07C5528A00210847 = {
+			fileRef = 0916ACC204F728EA00000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF007C5528A00210847 = {
+			fileRef = 0916ACC504F72A0600000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF107C5528A00210847 = {
+			fileRef = 0916ACC904F7323100000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF207C5528A00210847 = {
+			fileRef = 0981B76604F81AC900000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF307C5528A00210847 = {
+			fileRef = 0981B76D04FA546F00000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF407C5528A00210847 = {
+			fileRef = 09B7ACF90507596B00000106;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF507C5528A00210847 = {
+			fileRef = 09DA7590051B939700D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF607C5528A00210847 = {
+			fileRef = 0934447B0524C5E500D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF707C5528A00210847 = {
+			fileRef = 0934447C0524C5E500D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF807C5528A00210847 = {
+			fileRef = 0934447E0524C5E500D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FF907C5528A00210847 = {
+			fileRef = 093444890524CA3800D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FFA07C5528A00210847 = {
+			fileRef = 0934448B0524CAB600D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FFB07C5528A00210847 = {
+			fileRef = 094AF260054772B6006D53C9;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FFC07C5528A00210847 = {
+			fileRef = 097EE2D0070BA9ED00305C66;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FFD07C5528A00210847 = {
+			fileRef = 0985D5CC074A9A2A00B8ED3B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09682FFE07C5528A00210847 = {
+			buildActionMask = 2147483647;
+			files = (
+				09682FFF07C5528A00210847,
+				0968300007C5528A00210847,
+				0968300107C5528A00210847,
+				0968300207C5528A00210847,
+				0968300307C5528A00210847,
+				0968300407C5528A00210847,
+				0968300507C5528A00210847,
+				0968300607C5528A00210847,
+				0968300707C5528A00210847,
+				0968300807C5528A00210847,
+				0968300907C5528A00210847,
+				0968300A07C5528A00210847,
+				0968300B07C5528A00210847,
+				0968300C07C5528A00210847,
+				0968300D07C5528A00210847,
+				0968300E07C5528A00210847,
+				0968300F07C5528A00210847,
+				0968301007C5528A00210847,
+				0968301107C5528A00210847,
+				0968301207C5528A00210847,
+				0968301307C5528A00210847,
+				0968301407C5528A00210847,
+				0968301507C5528A00210847,
+				0968301607C5528A00210847,
+				0968301707C5528A00210847,
+				0968301807C5528A00210847,
+				0968301907C5528A00210847,
+				0968301A07C5528A00210847,
+				0968301B07C5528A00210847,
+				0968301C07C5528A00210847,
+				0968301D07C5528A00210847,
+				0968301E07C5528A00210847,
+				0968301F07C5528A00210847,
+				0968302007C5528A00210847,
+				0968302107C5528A00210847,
+				0968302207C5528A00210847,
+				0968302307C5528A00210847,
+				0968302407C5528A00210847,
+				0968302507C5528A00210847,
+				0968302607C5528A00210847,
+				0968302707C5528A00210847,
+			);
+			isa = PBXSourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09682FFF07C5528A00210847 = {
+			fileRef = 29B97316FDCFA39411CA2CEA;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+				);
+			};
+		};
+		0968300007C5528A00210847 = {
+			fileRef = F58418F301B4201501D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300107C5528A00210847 = {
+			fileRef = F589A63801B43A7301D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300207C5528A00210847 = {
+			fileRef = F589A63A01B43A7301D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300307C5528A00210847 = {
+			fileRef = F589A63C01B43A7301D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300407C5528A00210847 = {
+			fileRef = F54056F801E6402401D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300507C5528A00210847 = {
+			fileRef = F5939901021C375F01D5E771;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300607C5528A00210847 = {
+			fileRef = F57EF22A023D053C01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300707C5528A00210847 = {
+			fileRef = F585904F02D2393A01D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300807C5528A00210847 = {
+			fileRef = F57214240307199D01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300907C5528A00210847 = {
+			fileRef = F538D79E030CADCC01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300A07C5528A00210847 = {
+			fileRef = F538D7A3030CB33A01A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300B07C5528A00210847 = {
+			fileRef = F517DFB00312A0A901A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300C07C5528A00210847 = {
+			fileRef = F5D6EBA5031686A101A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300D07C5528A00210847 = {
+			fileRef = F5D6EBAC0316911201A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300E07C5528A00210847 = {
+			fileRef = F5D6EBBC03199D2901A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968300F07C5528A00210847 = {
+			fileRef = F5FC36BD036A339A01E16655;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301007C5528A00210847 = {
+			fileRef = 23EAEE0D0385949DFE27C9B8;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301107C5528A00210847 = {
+			fileRef = 23A1B7420389BD23FED5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301207C5528A00210847 = {
+			fileRef = 09C448BC03D0D37E00D5EA68;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301307C5528A00210847 = {
+			fileRef = 0923B08903E846EE00A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301407C5528A00210847 = {
+			fileRef = 0991811903F0262300A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301507C5528A00210847 = {
+			fileRef = 097786500430BF2000BEE8BF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301607C5528A00210847 = {
+			fileRef = 09554B1E03CE87CA00D5E7D1;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301707C5528A00210847 = {
+			fileRef = 095C52210442121400A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301807C5528A00210847 = {
+			fileRef = 09AE0F7304812A6300A8002B;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301907C5528A00210847 = {
+			fileRef = 09E0A0EF04C06A3100D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301A07C5528A00210847 = {
+			fileRef = 0994319804C5AEDE0066CB97;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301B07C5528A00210847 = {
+			fileRef = 09D21DC704EC1C7C00D5EACC;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301C07C5528A00210847 = {
+			fileRef = 09D21DCB04EDA06700D5EACC;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301D07C5528A00210847 = {
+			fileRef = 09BCC14104EECC1500D5EACC;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301E07C5528A00210847 = {
+			fileRef = 09D38E9004F5A20000000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968301F07C5528A00210847 = {
+			fileRef = 09D38E9404F5AE1400000102;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302007C5528A00210847 = {
+			fileRef = 095D2AE3051946B500E73D04;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302107C5528A00210847 = {
+			fileRef = 09DA7589051B891000D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302207C5528A00210847 = {
+			fileRef = 0936A56105220F8600D5E7DF;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302307C5528A00210847 = {
+			fileRef = 099BE67805222CDA0038D787;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302407C5528A00210847 = {
+			fileRef = 0984FFE105D9D8F900EEA2D5;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302507C5528A00210847 = {
+			fileRef = 09D2776B061A835D00EE17C7;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302607C5528A00210847 = {
+			fileRef = 09682E8307C4F07300210847;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302707C5528A00210847 = {
+			fileRef = 09682EE607C5005400210847;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302807C5528A00210847 = {
+			buildActionMask = 2147483647;
+			files = (
+				0968302907C5528A00210847,
+				0968302A07C5528A00210847,
+				0968302B07C5528A00210847,
+				0968302C07C5528A00210847,
+				0968302D07C5528A00210847,
+			);
+			isa = PBXFrameworksBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0968302907C5528A00210847 = {
+			fileRef = 1058C7A1FEA54F0111CA2CBB;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302A07C5528A00210847 = {
+			fileRef = 09E8A371042F6F8F009BCCF8;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302B07C5528A00210847 = {
+			fileRef = 09E0A0F204C06B1600D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302C07C5528A00210847 = {
+			fileRef = 09E0A0F304C06B1600D5EA79;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302D07C5528A00210847 = {
+			fileRef = 0984006B05DB103E00EEA2D5;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		0968302E07C5528A00210847 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.xml;
+			path = Info.plist;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0968302F07C5528A00210847 = {
+			compilerSpec = com.apple.compilers.gcc;
+			fileType = sourcecode.c;
+			isEditable = 1;
+			isa = PBXBuildRule;
+			outputFiles = (
+			);
+		};
+		0968303007C5528A00210847 = {
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = Fugu.app;
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		0968303207C552F200210847 = {
+			containerPortal = 29B97313FDCFA39411CA2CEA;
+			isa = PBXContainerItemProxy;
+			proxyType = 1;
+			remoteGlobalIDString = 09AE97F306F37702005A54B4;
+			remoteInfo = externaleditor;
+		};
+		0968303307C552F200210847 = {
+			isa = PBXTargetDependency;
+			target = 09AE97F306F37702005A54B4;
+			targetProxy = 0968303207C552F200210847;
+		};
+		096A883B03F1B71700A8002B = {
+			children = (
+				096A883C03F1B71700A8002B,
+				09338C9F03FD997F00D5EA79,
+				096C4A8C0413F74C003D9332,
+				09E1EBFB0452494200D5EA79,
+				095D40E2048E86BC009C52F5,
+				09F12F5D0494F76D00A8022B,
+				09830E5C04B4AABA00F63E62,
+				09855B3404CDD14800D5EA79,
+				09CB2F0D05350D2000B1DF0F,
+				092DD4D105F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = SFTPInfoPanel.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096A883C03F1B71700A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A850413F74C003D9332 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Japanese;
+			path = Japanese.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A870413F74C003D9332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Japanese;
+			path = Japanese.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A880413F74C003D9332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Japanese;
+			path = Japanese.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A890413F74C003D9332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Japanese;
+			path = Japanese.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A8A0413F74C003D9332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Japanese;
+			path = Japanese.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A8B0413F74C003D9332 = {
+			fileEncoding = 10;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Japanese;
+			path = Japanese.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A8C0413F74C003D9332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Japanese;
+			path = Japanese.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A8D0413F74C003D9332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Japanese;
+			path = Japanese.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A8E0413F74C003D9332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Japanese;
+			path = Japanese.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		096C4A8F0413F74D003D9332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Japanese;
+			path = Japanese.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0971F3FA03F2DFC700A8002B = {
+			children = (
+				0971F3FB03F2DFC700A8002B,
+				09338C9C03FD98ED00D5EA79,
+				096C4A8B0413F74C003D9332,
+				09E1EBFA0452494200D5EA79,
+				095D40E1048E86BC009C52F5,
+				09F12F5C0494F76D00A8022B,
+				09830E5B04B4AABA00F63E62,
+				09855B3304CDD14800D5EA79,
+				09CB2F0C05350D2000B1DF0F,
+				092DD4D005F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = SCP.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0971F3FB03F2DFC700A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0977864F0430BF2000BEE8BF = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = keychain.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		097786500430BF2000BEE8BF = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = keychain.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		097EE2D0070BA9ED00305C66 = {
+			isa = PBXFileReference;
+			lastKnownFileType = "compiled.mach-o.executable";
+			name = externaleditor;
+			path = build/externaleditor;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0981B76604F81AC900000102 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = disconnect.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0981B76D04FA546F00000102 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = edit.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5504B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Danish;
+			path = Danish.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5704B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Danish;
+			path = Danish.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5804B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Danish;
+			path = Danish.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5904B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Danish;
+			path = Danish.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5A04B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Danish;
+			path = Danish.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5B04B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Danish;
+			path = Danish.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5C04B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Danish;
+			path = Danish.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5D04B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Danish;
+			path = Danish.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5E04B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Danish;
+			path = Danish.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09830E5F04B4AABA00F63E62 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Danish;
+			path = Danish.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0984006B05DB103E00EEA2D5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreFoundation.framework;
+			path = /System/Library/Frameworks/CoreFoundation.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		0984FFE005D9D8F900EEA2D5 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSAttributedString-Ellipsis.h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0984FFE105D9D8F900EEA2D5 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSAttributedString-Ellipsis.m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B2D04CDD14800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = French;
+			path = French.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B2F04CDD14800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = French;
+			path = French.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B3004CDD14800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = French;
+			path = French.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B3104CDD14800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = French;
+			path = French.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B3204CDD14800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = French;
+			path = French.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B3304CDD14800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = French;
+			path = French.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B3404CDD14800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = French;
+			path = French.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B3504CDD14800D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = French;
+			path = French.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B3604CDD14900D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = French;
+			path = French.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09855B3804CDD65200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = French;
+			path = French.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0985D5CC074A9A2A00B8ED3B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.xml;
+			path = ODBEditors.plist;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0991811803F0262300A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = UMVersionCheck.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0991811903F0262300A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = UMVersionCheck.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0991811C03F02D7700A8002B = {
+			children = (
+				0923B08803E846EE00A8002B,
+				0923B08903E846EE00A8002B,
+				0991811803F0262300A8002B,
+				0991811903F0262300A8002B,
+			);
+			isa = PBXGroup;
+			name = "Misc Classes";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0994319704C5AEDE0066CB97 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSWorkspace(LaunchServices).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		0994319804C5AEDE0066CB97 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSWorkspace(LaunchServices).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		099BE67705222CDA0038D787 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSCalendarDate(ConvertToSeconds).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		099BE67805222CDA0038D787 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSCalendarDate(ConvertToSeconds).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09A24DBD051F6CEC00D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.rtf;
+			name = Dutch;
+			path = Dutch.lproj/keys.rtf;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09A24DBE051F708000D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Spanish;
+			path = Spanish.lproj/SFTPPrefToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09A6FD2E051F895A00D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = German;
+			path = German.lproj/SFTPPrefToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09AE0F7204812A6300A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPPrefTableView.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09AE0F7304812A6300A8002B = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPPrefTableView.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09AE97EF06F37702005A54B4 = {
+			buildActionMask = 2147483647;
+			files = (
+				09AE981F06F3781D005A54B4,
+			);
+			isa = PBXHeadersBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09AE97F006F37702005A54B4 = {
+			buildActionMask = 2147483647;
+			files = (
+				09AE981E06F3781D005A54B4,
+				09AE982006F3781D005A54B4,
+			);
+			isa = PBXSourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09AE97F106F37702005A54B4 = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXRezBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09AE97F206F37702005A54B4 = {
+			buildActionMask = 2147483647;
+			files = (
+			);
+			isa = PBXFrameworksBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		09AE97F306F37702005A54B4 = {
+			buildPhases = (
+				09AE97EF06F37702005A54B4,
+				09AE97F006F37702005A54B4,
+				09AE97F106F37702005A54B4,
+				09AE97F206F37702005A54B4,
+			);
+			buildRules = (
+			);
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/Carbon.framework/Headers/Carbon.h";
+				GCC_WARN_FOUR_CHARACTER_CONSTANTS = NO;
+				GCC_WARN_UNKNOWN_PRAGMAS = NO;
+				INSTALL_PATH = /usr/local/bin;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "-framework Carbon -framework ApplicationServices";
+				OTHER_REZFLAGS = "";
+				PREBINDING = NO;
+				PRODUCT_NAME = externaleditor;
+				REZ_EXECUTABLE = YES;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost";
+			};
+			dependencies = (
+			);
+			isa = PBXNativeTarget;
+			name = externaleditor;
+			productName = Untitled;
+			productReference = 09AE97F406F37702005A54B4;
+			productType = "com.apple.product-type.tool";
+		};
+		09AE97F406F37702005A54B4 = {
+			explicitFileType = "compiled.mach-o.executable";
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = externaleditor;
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		09AE981B06F3781D005A54B4 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = aevent.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09AE981C06F3781D005A54B4 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = aevent.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09AE981D06F3781D005A54B4 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = ee.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09AE981E06F3781D005A54B4 = {
+			fileRef = 09AE981B06F3781D005A54B4;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09AE981F06F3781D005A54B4 = {
+			fileRef = 09AE981C06F3781D005A54B4;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09AE982006F3781D005A54B4 = {
+			fileRef = 09AE981D06F3781D005A54B4;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		09B7ACF90507596B00000106 = {
+			children = (
+				09B7ACFA0507596B00000106,
+				0911C537050D04630022D49F,
+				09173BB3050E461700D5E7DF,
+				09A24DBE051F708000D5E7DF,
+				09A6FD2E051F895A00D5E7DF,
+				09CB2F0E05350D2000B1DF0F,
+				092DD4D205F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = SFTPPrefToolbar.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09B7ACFA0507596B00000106 = {
+			fileEncoding = 10;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/SFTPPrefToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09BCC14004EECC1500D5EACC = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPImageView.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09BCC14104EECC1500D5EACC = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPImageView.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09C448BB03D0D37E00D5EA68 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSMutableDictionary(Fugu).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09C448BC03D0D37E00D5EA68 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSMutableDictionary(Fugu).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0705350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Finnish;
+			path = Finnish.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0805350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Finnish;
+			path = Finnish.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0905350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Finnish;
+			path = Finnish.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0A05350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Finnish;
+			path = Finnish.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0B05350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Finnish;
+			path = Finnish.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0C05350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Finnish;
+			path = Finnish.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0D05350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Finnish;
+			path = Finnish.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0E05350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Finnish;
+			path = Finnish.lproj/SFTPPrefToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F0F05350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Finnish;
+			path = Finnish.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F1005350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Finnish;
+			path = Finnish.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09CB2F1105350D2000B1DF0F = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Finnish;
+			path = Finnish.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D21DC604EC1C7C00D5EACC = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSSet(ImageExtensions).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D21DC704EC1C7C00D5EACC = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSSet(ImageExtensions).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D21DCA04EDA06700D5EACC = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPImagePreviewPanel.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D21DCB04EDA06700D5EACC = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPImagePreviewPanel.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D2776A061A835D00EE17C7 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSString-UnknownEncoding.h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D2776B061A835D00EE17C7 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSString-UnknownEncoding.m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D38E8F04F5A20000000102 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSFileManager(mktemp).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D38E9004F5A20000000102 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSFileManager(mktemp).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D38E9304F5AE1400000102 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSImage(IconForType).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D38E9404F5AE1400000102 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSImage(IconForType).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09D38E9D04F6A0A800000102 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = reload.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09DA7588051B891000D5E7DF = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSArray(CreateArgv).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09DA7589051B891000D5E7DF = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSArray(CreateArgv).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09DA758C051B8E4300D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.rtfd;
+			name = English;
+			path = "English.lproj/Fugu README.rtfd";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09DA758F051B912500D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.rtfd;
+			name = Dutch;
+			path = "Dutch.lproj/Fugu README.rtfd";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09DA7590051B939700D5E7DF = {
+			children = (
+				09DA7591051B939700D5E7DF,
+				09A24DBD051F6CEC00D5E7DF,
+				092DD4CB05F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = keys.rtf;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09DA7591051B939700D5E7DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.rtf;
+			name = English;
+			path = English.lproj/keys.rtf;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E0A0EE04C06A3100D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSString(FSRefAdditions).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E0A0EF04C06A3100D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSString(FSRefAdditions).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E0A0F204C06B1600D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = /System/Library/Frameworks/Carbon.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		09E0A0F304C06B1600D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreServices.framework;
+			path = /System/Library/Frameworks/CoreServices.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		09E0A0F804C091C000D5EA79 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = ODBEditorSuite.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBF20452494200D5EA79 = {
+			children = (
+				09DA758C051B8E4300D5E7DF,
+				09DA758F051B912500D5E7DF,
+				094AF26405481FDF006D53C9,
+			);
+			isa = PBXVariantGroup;
+			name = "Fugu README.rtfd";
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBF40452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Dutch;
+			path = Dutch.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBF60452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Dutch;
+			path = Dutch.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBF70452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Dutch;
+			path = Dutch.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBF80452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Dutch;
+			path = Dutch.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBF90452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Dutch;
+			path = Dutch.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBFA0452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Dutch;
+			path = Dutch.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBFB0452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Dutch;
+			path = Dutch.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBFC0452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Dutch;
+			path = Dutch.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBFD0452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Dutch;
+			path = Dutch.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E1EBFE0452494200D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Dutch;
+			path = Dutch.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09E8A371042F6F8F009BCCF8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Security.framework;
+			path = /System/Library/Frameworks/Security.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		09F12F540494F76C00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Italian;
+			path = Italian.lproj/HelpMenu.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F560494F76C00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Italian;
+			path = Italian.lproj/Localizable.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F590494F76D00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Italian;
+			path = Italian.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F5A0494F76D00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Italian;
+			path = Italian.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F5B0494F76D00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Italian;
+			path = Italian.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F5C0494F76D00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Italian;
+			path = Italian.lproj/SCP.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F5D0494F76D00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Italian;
+			path = Italian.lproj/SFTPInfoPanel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F5E0494F76D00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Italian;
+			path = Italian.lproj/SFTPToolbar.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F5F0494F76D00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = Italian;
+			path = Italian.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F12F600494F76D00A8022B = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = Italian;
+			path = Italian.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F5CD7203F04CF600A8002B = {
+			children = (
+				09F5CD7303F04CF600A8002B,
+				09338C9A03FD98C300D5EA79,
+				096C4A8A0413F74C003D9332,
+				09E1EBF90452494200D5EA79,
+				095D40DD048E869C009C52F5,
+				09F12F5B0494F76D00A8022B,
+				09830E5A04B4AABA00F63E62,
+				09855B3204CDD14800D5EA79,
+				09CB2F0B05350D2000B1DF0F,
+				092DD4CF05F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = SCP.nib;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F5CD7303F04CF600A8002B = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = English;
+			path = English.lproj/SCP.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F9EDCE04CC74CB00D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = files.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09F9EDD004CC841F00D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = transfers.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09FFFC6303F992BE00A8002B = {
+			children = (
+				09FFFC6403F992BE00A8002B,
+				09338CA103FD99AC00D5EA79,
+				096C4A8F0413F74D003D9332,
+				09E1EBFE0452494200D5EA79,
+				095D40E5048E86BC009C52F5,
+				09F12F600494F76D00A8022B,
+				09830E5F04B4AABA00F63E62,
+				09855B3804CDD65200D5EA79,
+				09CB2F1105350D2000B1DF0F,
+				092DD4D505F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = SSHTunnel.strings;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09FFFC6403F992BE00A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/SSHTunnel.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09FFFC7903FC38BF00A8002B = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = history.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09FFFC7B03FC3CA600A8002B = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = remotehistory.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		09FFFC7C03FC3CA600A8002B = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = remotehome.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//090
+//091
+//092
+//093
+//094
+//100
+//101
+//102
+//103
+//104
+		1058C7A0FEA54F0111CA2CBB = {
+			children = (
+				0984006B05DB103E00EEA2D5,
+				1058C7A1FEA54F0111CA2CBB,
+				09E8A371042F6F8F009BCCF8,
+				09E0A0F204C06B1600D5EA79,
+				09E0A0F304C06B1600D5EA79,
+			);
+			isa = PBXGroup;
+			name = "Linked Frameworks";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		1058C7A1FEA54F0111CA2CBB = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Cocoa.framework;
+			path = /System/Library/Frameworks/Cocoa.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		1058C7A2FEA54F0111CA2CBB = {
+			children = (
+				29B97325FDCFA39411CA2CEA,
+				29B97324FDCFA39411CA2CEA,
+			);
+			isa = PBXGroup;
+			name = "Other Frameworks";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//100
+//101
+//102
+//103
+//104
+//190
+//191
+//192
+//193
+//194
+		19C28FACFE9D520D11CA2CBB = {
+			children = (
+				09AE97F406F37702005A54B4,
+				0968303007C5528A00210847,
+			);
+			isa = PBXGroup;
+			name = Products;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//190
+//191
+//192
+//193
+//194
+//230
+//231
+//232
+//233
+//234
+		238577620392BB76FED5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = bookmark.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		238577660392BFBCFED5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.icns;
+			path = fugu.icns;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		239A5C18038C2294FED5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = favorites.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		23A1B7410389BD23FED5EA79 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = sshversion.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		23A1B7420389BD23FED5EA79 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = sshversion.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		23EAEE0C0385949DFE27C9B8 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPSplitView.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		23EAEE0D0385949DFE27C9B8 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPSplitView.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//230
+//231
+//232
+//233
+//234
+//290
+//291
+//292
+//293
+//294
+		29B97313FDCFA39411CA2CEA = {
+			buildSettings = {
+			};
+			buildStyles = (
+				4A9504CCFFE6A4B311CA0CBA,
+				4A9504CDFFE6A4B311CA0CBA,
+			);
+			hasScannedForEncodings = 1;
+			isa = PBXProject;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				Dutch,
+				Spanish,
+				Italian,
+				Danish,
+				Finnish,
+				Chinese,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA;
+			projectDirPath = "";
+			targets = (
+				09682FA507C5528A00210847,
+				09AE97F306F37702005A54B4,
+			);
+		};
+		29B97314FDCFA39411CA2CEA = {
+			children = (
+				F517810B03083F4A01A8002B,
+				F5FC36BB036A333C01E16655,
+				F517DFB70312A17501A8002B,
+				0991811C03F02D7700A8002B,
+				F538D7A2030CB30701A8002B,
+				080E96DDFE201D6D7F000001,
+				F517DFBA0312C97A01A8002B,
+				29B97315FDCFA39411CA2CEA,
+				29B97317FDCFA39411CA2CEA,
+				29B97323FDCFA39411CA2CEA,
+				19C28FACFE9D520D11CA2CBB,
+				0968302E07C5528A00210847,
+			);
+			isa = PBXGroup;
+			name = ScruFTP;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA = {
+			children = (
+				09AE981B06F3781D005A54B4,
+				09AE981C06F3781D005A54B4,
+				09AE981D06F3781D005A54B4,
+				23A1B7420389BD23FED5EA79,
+				23A1B7410389BD23FED5EA79,
+				F57EF22A023D053C01A8002B,
+				F57EF22B023D053C01A8002B,
+				29B97316FDCFA39411CA2CEA,
+				F585904F02D2393A01D5EA79,
+				F585905002D2393A01D5EA79,
+				F5D6EBAC0316911201A8002B,
+				F5D6EBAD0316911201A8002B,
+				097786500430BF2000BEE8BF,
+				0977864F0430BF2000BEE8BF,
+				09E0A0F804C091C000D5EA79,
+			);
+			isa = PBXGroup;
+			name = "Other Sources";
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		29B97316FDCFA39411CA2CEA = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = main.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA = {
+			children = (
+				0985D5CC074A9A2A00B8ED3B,
+				097EE2D0070BA9ED00305C66,
+				29B97318FDCFA39411CA2CEA,
+				09E1EBF20452494200D5EA79,
+				F558B96301E3994C01D5E771,
+				F5B12CC002DF4E6001D5EA79,
+				09F5CD7203F04CF600A8002B,
+				F517DFAD0312049F01A8002B,
+				238577660392BFBCFED5EA79,
+				0971F3FA03F2DFC700A8002B,
+				0960E33703F063A700A8002B,
+				09448C5E03F052C200A8002B,
+				096A883B03F1B71700A8002B,
+				0960E33403F05A2800A8002B,
+				09FFFC6303F992BE00A8002B,
+				09B7ACF90507596B00000106,
+				09DA7590051B939700D5E7DF,
+			);
+			isa = PBXGroup;
+			name = Resources;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		29B97318FDCFA39411CA2CEA = {
+			children = (
+				29B97319FDCFA39411CA2CEA,
+				09338C9703FD986F00D5EA79,
+				096C4A880413F74C003D9332,
+				09E1EBF70452494200D5EA79,
+				095D40DB048E8651009C52F5,
+				09F12F590494F76D00A8022B,
+				09830E5804B4AABA00F63E62,
+				09855B3004CDD14800D5EA79,
+				09CB2F0905350D2000B1DF0F,
+				092DD4CD05F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = MainMenu.nib;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		29B97319FDCFA39411CA2CEA = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = English;
+			path = English.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA = {
+			children = (
+				1058C7A0FEA54F0111CA2CBB,
+				1058C7A2FEA54F0111CA2CBB,
+			);
+			isa = PBXGroup;
+			name = Frameworks;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		29B97324FDCFA39411CA2CEA = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AppKit.framework;
+			path = /System/Library/Frameworks/AppKit.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		29B97325FDCFA39411CA2CEA = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = /System/Library/Frameworks/Foundation.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+//290
+//291
+//292
+//293
+//294
+//4A0
+//4A1
+//4A2
+//4A3
+//4A4
+		4A9504CCFFE6A4B311CA0CBA = {
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OPTIMIZATION_CFLAGS = "-O0";
+				ZERO_LINK = YES;
+			};
+			isa = PBXBuildStyle;
+			name = Development;
+		};
+		4A9504CDFFE6A4B311CA0CBA = {
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				ZERO_LINK = NO;
+			};
+			isa = PBXBuildStyle;
+			name = Deployment;
+		};
+//4A0
+//4A1
+//4A2
+//4A3
+//4A4
+//F50
+//F51
+//F52
+//F53
+//F54
+		F517810B03083F4A01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text;
+			path = COPYRIGHT.txt;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F517DFAD0312049F01A8002B = {
+			children = (
+				F517DFAE0312049F01A8002B,
+				09338C9B03FD98D800D5EA79,
+				096C4A8E0413F74C003D9332,
+				09E1EBFD0452494200D5EA79,
+				095D40E4048E86BC009C52F5,
+				09F12F5F0494F76D00A8022B,
+				09830E5E04B4AABA00F63E62,
+				09855B3604CDD14900D5EA79,
+				09CB2F1005350D2000B1DF0F,
+				092DD4D405F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = SSHTunnel.nib;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F517DFAE0312049F01A8002B = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = English;
+			path = English.lproj/SSHTunnel.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F517DFB00312A0A901A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "NSString(SSHAdditions).m";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F517DFB10312A0A901A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = "NSString(SSHAdditions).h";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F517DFB70312A17501A8002B = {
+			children = (
+				F517DFB10312A0A901A8002B,
+				F517DFB00312A0A901A8002B,
+				09C448BB03D0D37E00D5EA68,
+				09C448BC03D0D37E00D5EA68,
+				09E0A0EE04C06A3100D5EA79,
+				09E0A0EF04C06A3100D5EA79,
+				095D2AE2051946B500E73D04,
+				095D2AE3051946B500E73D04,
+				0994319704C5AEDE0066CB97,
+				0994319804C5AEDE0066CB97,
+				09D38E9304F5AE1400000102,
+				09D38E9404F5AE1400000102,
+				09D21DC604EC1C7C00D5EACC,
+				09D21DC704EC1C7C00D5EACC,
+				09D38E8F04F5A20000000102,
+				09D38E9004F5A20000000102,
+				09DA7588051B891000D5E7DF,
+				09DA7589051B891000D5E7DF,
+				099BE67705222CDA0038D787,
+				099BE67805222CDA0038D787,
+				0936A56005220F8600D5E7DF,
+				0936A56105220F8600D5E7DF,
+				0984FFE005D9D8F900EEA2D5,
+				0984FFE105D9D8F900EEA2D5,
+				09D2776A061A835D00EE17C7,
+				09D2776B061A835D00EE17C7,
+			);
+			isa = PBXGroup;
+			name = Categories;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F517DFBA0312C97A01A8002B = {
+			children = (
+				F5D6EBA4031686A101A8002B,
+				F5D6EBA5031686A101A8002B,
+				F5D6EBBC03199D2901A8002B,
+				F5D6EBBD03199D2901A8002B,
+			);
+			isa = PBXGroup;
+			name = SSHTunnel;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F538D79D030CADCC01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SCPController.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F538D79E030CADCC01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SCPController.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F538D7A2030CB30701A8002B = {
+			children = (
+				F538D79D030CADCC01A8002B,
+				F538D79E030CADCC01A8002B,
+				F538D7A3030CB33A01A8002B,
+				F538D7A4030CB33A01A8002B,
+			);
+			isa = PBXGroup;
+			name = SCP;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F538D7A3030CB33A01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SCPTransfer.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F538D7A4030CB33A01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SCPTransfer.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F54056F701E6402401D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPAboutPanel.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F54056F801E6402401D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPAboutPanel.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F558B96301E3994C01D5E771 = {
+			children = (
+				F5EA815603785CDD01A8002B,
+				239A5C18038C2294FED5EA79,
+				238577620392BB76FED5EA79,
+				09FFFC7903FC38BF00A8002B,
+				09FFFC7B03FC3CA600A8002B,
+				09FFFC7C03FC3CA600A8002B,
+				09274DEC04B36372003075E6,
+				09274DF004B36B27003075E6,
+				09274DEE04B36AFF003075E6,
+				09274DF204B3826E003075E6,
+				092E4A3D04B89F4E00341390,
+				092E4A3E04B89F4F00341390,
+				09F9EDCE04CC74CB00D5EA79,
+				09F9EDD004CC841F00D5EA79,
+				09D38E9D04F6A0A800000102,
+				0916ACC104F728EA00000102,
+				0916ACC204F728EA00000102,
+				0916ACC504F72A0600000102,
+				0916ACC904F7323100000102,
+				0981B76604F81AC900000102,
+				0981B76D04FA546F00000102,
+				0934447B0524C5E500D5E7DF,
+				0934447C0524C5E500D5E7DF,
+				0934447E0524C5E500D5E7DF,
+				093444890524CA3800D5E7DF,
+				0934448B0524CAB600D5E7DF,
+				094AF260054772B6006D53C9,
+			);
+			isa = PBXGroup;
+			name = Images;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F57214230307199D01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPPrefs.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F57214240307199D01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPPrefs.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F57EF22A023D053C01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = argcargv.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F57EF22B023D053C01A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = argcargv.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F58418F201B4201501D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPMainWindow.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F58418F301B4201501D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPMainWindow.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F585904F02D2393A01D5EA79 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = typeforchar.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F585905002D2393A01D5EA79 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = typeforchar.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F589A63801B43A7301D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPController.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F589A63901B43A7301D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPController.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F589A63A01B43A7301D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPErrorHandler.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F589A63B01B43A7301D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPErrorHandler.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F589A63C01B43A7301D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPNode.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F589A63D01B43A7301D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPNode.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5939901021C375F01D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPTServer.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5939902021C375F01D5E771 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPTServer.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5B12CC002DF4E6001D5EA79 = {
+			children = (
+				F5B12CC102DF4E6001D5EA79,
+				09338C9903FD98AE00D5EA79,
+				096C4A890413F74C003D9332,
+				09E1EBF80452494200D5EA79,
+				095D40DC048E8664009C52F5,
+				09F12F5A0494F76D00A8022B,
+				09830E5904B4AABA00F63E62,
+				09855B3104CDD14800D5EA79,
+				09CB2F0A05350D2000B1DF0F,
+				092DD4CE05F3D40700EA362F,
+			);
+			isa = PBXVariantGroup;
+			name = Prefs.nib;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5B12CC102DF4E6001D5EA79 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = English;
+			path = English.lproj/Prefs.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5D6EBA4031686A101A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SSHTunnel.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5D6EBA5031686A101A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SSHTunnel.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5D6EBAC0316911201A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = fdwrite.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5D6EBAD0316911201A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = fdwrite.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5D6EBBC03199D2901A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SSHTunnelAuth.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5D6EBBD03199D2901A8002B = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SSHTunnelAuth.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5EA815603785CDD01A8002B = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = home.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5FC36BB036A333C01E16655 = {
+			children = (
+				09682EE507C5005400210847,
+				09682EE607C5005400210847,
+				09682E8207C4F07300210847,
+				09682E8307C4F07300210847,
+				23EAEE0D0385949DFE27C9B8,
+				23EAEE0C0385949DFE27C9B8,
+				09AE0F7304812A6300A8002B,
+				09AE0F7204812A6300A8002B,
+				F5FC36BD036A339A01E16655,
+				F5FC36BC036A339A01E16655,
+				095C52210442121400A8002B,
+				095C52200442121400A8002B,
+				09554B1D03CE87CA00D5E7D1,
+				09554B1E03CE87CA00D5E7D1,
+				09D21DCA04EDA06700D5EACC,
+				09D21DCB04EDA06700D5EACC,
+				09BCC14004EECC1500D5EACC,
+				09BCC14104EECC1500D5EACC,
+			);
+			isa = PBXGroup;
+			name = Subclasses;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5FC36BC036A339A01E16655 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = SFTPTableView.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		F5FC36BD036A339A01E16655 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = SFTPTableView.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA;
+}
